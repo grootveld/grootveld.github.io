@@ -12,29 +12,12 @@
 	<atom:link href="https://grootveld.matthiasstreulens.be/feed" rel="self" type="application/rss+xml" />
 	<link>https://grootveld.matthiasstreulens.be</link>
 	<description>Grensstraat 193 9032 Gent (Wondelgem) Tel.: 09/227 90 13. E-mail: dierenarts@grootveld.be</description>
-	<lastBuildDate>Sat, 07 Jan 2023 18:23:35 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Apr 2023 11:02:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>https://grootveld.matthiasstreulens.be/hello-world</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 07 Jan 2023 18:23:35 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://grootveld.matthiasstreulens.be/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-	</channel>
+	<generator>https://wordpress.org/?v=6.2</generator>
+</channel>
 </rss>
